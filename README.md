@@ -1,5 +1,5 @@
 # Mapping-pick-drop-points
-Assignment on mapping and anlysing pick up and drop of university transport service
+Mapping and analysing pick up and drop of university transport service
 
 ## Background
 [Stingerette](https://www.pts.gatech.edu/shuttles/stingerette/) is a demand-response, shared-ride transportation service for Georgia Tech students – available seven days a week from 8:00 PM to 3:15 AM (excluding Institute holidays and during home football games) – aimed to provide safe and efficient evening transportation on Georgia Tech’s campus and the neighborhoods in-between. 
